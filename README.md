@@ -2,7 +2,7 @@
 
 ### Backend Developer
 
-- 🔭 Actualmente estoy trabajando **En mi proyecto fainal del bootcamp soyhenrry.com**
+- 🔭 Actualmente estoy trabajando **En mi proyecto final del bootcamp soyhenrry.com**
 
 - 🌱 Actualmente estoy aprendiendo **NodeJS | Nestjs | TypeScript | JavaScript |PostgreSQL**
 
