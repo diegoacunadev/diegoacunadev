@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/97475143/200388656-781512f4-8a45-4299-8d7d-5c024564c742.gif" alt="Node.js Logo Animado" width="100"/>
   <h1>Hola 👋, Soy Diego Acuña</h1>
-  <h3>Backend Developer | Node.js · Nest.js · TypeScript</h3>
+  <h3>Backend Developer | Node.js, NestJS, TypeScript, JavaScript, PostgreSQL</h3>
   <p>📍 Cali, Colombia</p>
 </div>
 
