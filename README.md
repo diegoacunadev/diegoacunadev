@@ -50,17 +50,6 @@ App de Servicios de Belleza On-Demand.
 
 ---
 
-### Hysteria3D Shop _(Proyecto Full Stack)_
-
-E-commerce para productos 3D con React, Next.js y TypeScript.
-
-- Backend en Node.js con PostgreSQL
-- Autenticación con JWT y gestión de productos
-- UI con Tailwind CSS y Flowbite  
-  🔗 [Repositorio](https://github.com/diegoacunadev/Api-ecommerce-M4)
-
----
-
 ## Educación
 
 - **Soy Henry – Bootcamp Full Stack Web Developer (2025)**  
