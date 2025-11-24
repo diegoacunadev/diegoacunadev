@@ -38,13 +38,13 @@ App de Servicios de Belleza On-Demand.
   
   => Arquitectura y API: Diseñé y desarrollé una API RESTful modular con NestJS y TypeScript,
   implementando DTOs y Pipes para validación estricta de datos.
-  => Seguridad: Implementé un sistema de autenƟcación robusto integrando Auth0 con
+  => Seguridad: Se Implemento un sistema de autenƟcación robusto integrando Auth0 con
   estrategias de Google y registro local, asegurando las rutas mediante Guards y JWT.
-  => Geolocalización: Integré la API de OpenStreetMap para calcular distancias y filtrar
+  => Geolocalización: Integramos la API de OpenStreetMap para calcular distancias y filtrar
   profesionales disponibles según la ubicación del cliente.
-  => Base de Datos: Modelé la base de datos en PostgreSQL, manejando relaciones complejas
+  => Base de Datos: Se modelo la base de datos en PostgreSQL, manejando relaciones complejas
   entre usuarios, roles, reservas y catálogo de servicios.
-  = Colaboración: Trabajé bajo metodología SCRUM, coordinando la integración de endpoints
+  = Colaboración: Trabajamos bajo metodología SCRUM, coordinando la integración de endpoints
   con el equipo de Frontend (Next.js).
   🔗 [Repositorio](https://github.com/diegoacunadev/Proyecto-Final-BackEnd)
 
