@@ -17,7 +17,12 @@ desarrollo backend
 
 ## Stack Tecnológico
 
--**Backend:** Node.js, NestJS, Express, TypeScript, JavaScript (ES6+). -**Bases de Datos:** PostgreSQL, TypeORM, Modelado Relacional, bases en MongoDB. -**Seguridad y AutenƟcación:** Auth0, JWT (JSON Web Tokens), OAuth2 (Google Strategy). -**APIs e Integraciones:** RESTful APIs, OpenStreetMap (Geolocalización), Swagger. -**Herramientas y DevOps:** Git, GitHub, Render, Insomnia. -**Infraestructura:** Redes LAN/WAN, Servidores Linux, Protocolos TCP/IP.
+-**Backend:** Node.js, NestJS, Express, TypeScript, JavaScript (ES6+).
+-**Bases de Datos:** PostgreSQL, TypeORM, Modelado Relacional, bases en MongoDB.
+-**Seguridad y AutenƟcación:** Auth0, JWT (JSON Web Tokens), OAuth2 (Google Strategy).
+-**APIs e Integraciones:** RESTful APIs, OpenStreetMap (Geolocalización), Swagger.
+-**Herramientas y DevOps:** Git, GitHub, Render, Insomnia.
+-**Infraestructura:** Redes LAN/WAN, Servidores Linux, Protocolos TCP/IP.
 
 ---
 
@@ -28,8 +33,9 @@ desarrollo backend
 App de Servicios de Belleza On-Demand.
 
 - Rol: **Backend Developer**
-  **Stack:** NestJS, TypeScript, PostgreSQL, Auth0, OpenStreetMap
+  **Stack:** NestJS, TypeScript, PostgreSQL, Auth0, OpenStreetMap.
   Plataforma tipo "Marketplace" que conecta profesionales de belleza con clientes para servicios a domicilio.
+  
   => Arquitectura y API: Diseñé y desarrollé una API RESTful modular con NestJS y TypeScript,
   implementando DTOs y Pipes para validación estricta de datos.
   => Seguridad: Implementé un sistema de autenƟcación robusto integrando Auth0 con
