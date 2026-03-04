@@ -1,73 +1,72 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/97475143/200388656-781512f4-8a45-4299-8d7d-5c024564c742.gif" alt="Node.js Logo Animado" width="100"/>
-  <h1>Hola 👋, Soy Diego Acuña</h1>
-  <h3>Backend Developer | Node.js, NestJS, TypeScript, JavaScript, PostgreSQL</h3>
-  <p>📍 Cali, Colombia</p>
-</div>
+# 👋 Hola, soy Diego Acuña | Full Stack Developer with an Infrastructure Soul
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 ---
 
-## 💻 Sobre Mí
+## 🚀 About Me / Sobre Mí
 
-Desarrollador Backend con **sólidos conocimientos** en Node.js, NestJS, TypeScript, PostgreSQL y JavaScript. Mi base se complementa con **más de 7 años de experiencia** en infraestructura, sistemas empresariales y soporte TI, brindándome una perspectiva técnica integral.
+**I am a Full Stack Developer based in Cali, Colombia.** Before diving deep into coding, I spent **7+ years managing critical infrastructure, networking, and system administration (Linux, TCP/IP).** This background taught me not just how to build applications, but how they actually live and run efficiently on a server.
 
-Mi enfoque actual es la **construcción de APIs escalables**, arquitectura modular, y el manejo de bases de datos relacionales. Aplico rigurosamente **buenas prácticas** como Arquitectura Limpia, DTOs, Servicios, control de versiones (Git) y los principios **SOLID** para entregar código robusto y mantenible.
-
-**Actualmente busco** una oportunidad para aplicar mis habilidades técnicas, mi experiencia en TI y mi capacidad para resolver problemas en roles de **Desarrollo Backend**.
+The result is a unique developer profile: I build applications from the interface (React/Next.js) to the architecture (Node/NestJS), grounding my code with the stability and security mindset of an infrastructure specialist.
 
 ---
 
-## 🛠️ Stack Tecnológico
+**Soy un Desarrollador Full Stack ubicado en Cali, Colombia.** Antes de sumergirme de lleno en el código, pasé **más de 7 años gestionando infraestructura crítica, redes y administración de sistemas (Linux, TCP/IP).** Esta trayectoria me enseñó no solo a construir aplicaciones, sino a entender cómo viven y se ejecutan eficientemente en un servidor.
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Backend** | `Node.js` · `NestJS` · `Express` · `TypeScript` · `JavaScript (ES6+)` |
-| **Bases de Datos** | `PostgreSQL` · `TypeORM` · `Modelado Relacional` · `MongoDB (bases)` |
-| **Seguridad** | `Auth0` · `JWT (JSON Web Tokens)` · `OAuth2 (Google Strategy)` |
-| **APIs** | `RESTful APIs` · `Swagger` · `OpenStreetMap (Geolocalización)` |
-| **Herramientas & DevOps** | `Git` · `GitHub` · `Render` · `Insomnia` |
-| **Infraestructura** | `Redes LAN/WAN` · `Servidores Linux` · `Protocolos TCP/IP` |
+El resultado es un perfil de desarrollador único: construyo aplicaciones desde la interfaz (React/Next.js) hasta la arquitectura (Node/NestJS), respaldando mi código con la mentalidad de estabilidad y seguridad de un especialista en infraestructura.
 
 ---
 
-## ✨ Proyecto Destacado
+## 🛠️ Technical Stack / Mi Stack Técnico
 
-### **ServiYApp** _(App de Servicios de Belleza On-Demand)_
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=flat-square&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 
-Proyecto tipo "Marketplace" que conecta profesionales de belleza con clientes para servicios a domicilio.
+### Databases & Tools
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 
-* **Rol:** Backend Developer (Proyecto grupal – Henry, 2025)
-* **Stack Principal:** `NestJS` · `TypeScript` · `PostgreSQL` · `Auth0` · `OpenStreetMap`
-
-#### **Puntos Clave:**
-
-* **Arquitectura y API:** Diseño y desarrollo de una API RESTful **modular** con NestJS, implementando DTOs y Pipes para una validación estricta de datos.
-* **Seguridad:** Implementación de un sistema de autenticación robusto integrando **Auth0** (con estrategias de Google y registro local), asegurando las rutas con Guards y **JWT**.
-* **Geolocalización:** Integración de la API de **OpenStreetMap** para calcular distancias y filtrar profesionales disponibles según la ubicación del cliente.
-* **Base de Datos:** Modelado en **PostgreSQL**, manejando relaciones complejas entre usuarios, roles, reservas y catálogo de servicios.
-* **Metodología:** Colaboración bajo metodología **SCRUM** con el equipo de Frontend (Next.js).
-
-🔗 [**Repositorio del Proyecto**](https://github.com/diegoacunadev/Proyecto-Final-BackEnd)
+### Infrastructure & Core Knowledge
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) **TCP/IP Protocols | LAN/WAN Networking | CLEAN Architecture | SOLID Principles | DTOs | RESTful APIs | Modular Architecture**
 
 ---
 
-## 🎓 Formación
+## ✨ Featured Project / Proyecto Destacado
 
-* **Soy Henry – Bootcamp Full Stack Web Developer (2025)**
-    * 800+ horas de programación intensiva en JavaScript, React, Node.js, PostgreSQL y metodologías ágiles (SCRUM).
-* **Tecnologo en sistemas (2008 - 2011)**
-    * 7 semestres de estudio con bases en Bases de Datos, Fundamentos de Programación y Administración de Redes.
+### 💇 App de Servicios de Belleza On-Demand
+A marketplace platform that connects beauty professionals with local clients for in-home services.
+
+**Key Technical Achievements (Backend Core Development):**
+* **Architecture & Security:** Designed and built a modular RESTful API using **NestJS**, **TypeScript**, and **DTOs** for strict data validation. Secured the platform using **Auth0** for user authentication and implemented access control via **Guards** and **JWT**.
+* **Database Management:** Modeled the database in **PostgreSQL** using complex relationships (User/Roles/Bookings/Services).
+* **Geolocation & Integrations:** Integrated **OpenStreetMap API** to filter and show professionals nearby based on client location.
+* **Collaboration:** Worked under **SCRUM** methodology, coordinating the frontend integration with the **Next.js** team.
+
+* 🛠️ **Stack:** NestJS, TypeScript, PostgreSQL, Auth0, OpenStreetMap, Docker.
+* 🔗 **[REPO LINK / ENLACE AL REPOSITORIO]**
 
 ---
 
-## 📬 Contacto
+## 📈 Educational Background / Educación Técnico-Práctica
 
-| | |
-| :--- | :--- |
-| **Email** | <a href="mailto:diegoacuna.dev@gmail.com">diegoacuna.dev@gmail.com</a> |
-| **LinkedIn** | <a href="https://www.linkedin.com/in/diegoacunadev/">diegoacunadev</a> |
-| **CV** | <a href="https://drive.google.com/file/d/1AAYjIAqmF85QjGErsXmM6NNdtAKBHLYF/view?usp=sharing">Descargar mi CV</a> |
+* **Desarrollador Full Stack** | Soy Henry Bootcamp Intensive (PERN Stack focus).
+* **Full Stack Web Development (Intermediate Level)** | Talento Tech - MinTIC (JavaScript, React, Node.js, Databases).
+* **Tecnólogo en Sistemas** | Institución Universitaria Antonio José Camacho (PHP, Java, Infrastructure).
 
-<div align="center">
-  <p>¡Gracias por tu visita! Estoy abierto a nuevas oportunidades como Backend Developer.</p>
-</div>
+---
+
+## 🤝 Connect with Me / Conectemos
+
+Whether you are looking for a developer who understands both sides of the application cycle (front & back) or someone who ensures your code is built on a solid architectural foundation, let's talk.
+
+* 💼 **LinkedIn:** [TU_PERFIL_DE_LINKEDIN] * 📧 **Email:** diegoacuna.dev@gmail.com
+* 📍 **Location:** Cali, Valle del Cauca, Colombia 🇨🇴
